@@ -35,6 +35,41 @@
       "artifacts": [
         "myWallet"
       ]
+    },
+    "/home/pheobe/FunctionsandErrors/contracts/FunctionsandErrors.sol": {
+      "lastModificationDate": 1729699859196,
+      "contentHash": "dbcbd69dc1bbaa4179f29c62ecb2748f",
+      "sourceName": "contracts/FunctionsandErrors.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "FunctionsandErrors"
+      ]
     }
   }
 }

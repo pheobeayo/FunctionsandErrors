@@ -15,7 +15,7 @@ Used in showcasing Error Handling in contract [revert, require, assert]
 - A text editor: For running the code [Visual Studio Code](https://code.visualstudio.com/).
 - You will need to have [Node.js](https://nodejs.org/en) installed on your system, with version V10. or higher.
 - Node Package Manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) used for installing and managing dependencies.
-* run this command in your terminal `git clone https://github.com/Ultra-Tech-code/Functions_and_Errors` to clone this repository
+* run this command in your terminal `git clone https://github.com/pheobeayo/FunctionsandErrors` to clone this repository
 
 ### Executing program
 
@@ -33,7 +33,7 @@ Any advise for common problems or issues.
 
 ## Loom(video) walkthrough
 ```bash
-https://www.loom.com/share/1d8c5f4d9ea248218d9fb4b90b46f4ac?sid=22dd0bfb-a8c9-450d-b987-defffb06b7d0
+https://www.loom.com/share/44e13ca21ff148edb93a649887667347?sid=696b2fa1-7e56-4167-b900-eb10f519a92b
 ```
 
 
