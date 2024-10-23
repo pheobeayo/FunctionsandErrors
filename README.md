@@ -1,9 +1,9 @@
 # Project Title
-MyWallet
+FunctionsandErrors
 
 ## Description
 
-A simple wallet that allows user to receive ethers, withdraw ethers and also transfer ethers to another address
+This is a simple that allows user to receive ethers, withdraw ethers and also transfer ethers to another address
 Used in showcasing Error Handling in contract [revert, require, assert]
 
 ## Getting Started
@@ -31,10 +31,15 @@ After cloning the github, you will want to do the following to get the code runn
 Any advise for common problems or issues.
 [hardhat tutorial](https://hardhat.org/tutorial)
 
+## Loom(video) walkthrough
+```bash
+https://www.loom.com/share/1d8c5f4d9ea248218d9fb4b90b46f4ac?sid=22dd0bfb-a8c9-450d-b987-defffb06b7d0
+```
+
 
 ## Authors
-  [@0xblackadam](https://twitter.com/i_hizick)
+  [@pheobeayolove1](https://x.com/pheobeayolove1)
 
 ## License
 
-This project is licensed under the [0xblackadam] License.
+This project is licensed under the [pheobeayo] License.
